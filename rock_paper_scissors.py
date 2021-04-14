@@ -1,3 +1,7 @@
+# @Time    : 2021/03/29
+# @Author  : alexanderdutchak@gmail.com
+# @Software: PyCharm
+
 import random
 import time
 
